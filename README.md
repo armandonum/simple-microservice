@@ -15,11 +15,13 @@ to prepare the development environment
 
 ## execution
 
-cree su aplicación .NET Core en una imagen de Docker:
+build your .NET Core app in a Docker image:
+
 ```bash
 docker build -t microservice1 .
 ```
-ejecute su contenedor Docker
+run your Docker container:
+
 ```bash 
 docker run -it --rm -p 3000:8080 --name Services microservice1
 ```
