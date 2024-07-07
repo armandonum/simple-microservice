@@ -8,7 +8,9 @@ This is a simple demo of microservices implemented with Docker.Shows how to buil
 
 ##  instalation 
 to prepare the development environment
+
 [install docker](https://docs.docker.com/get-docker/) 
+
 [Install .NET SDK](https://dotnet.microsoft.com/download)
 
 ## execution
